@@ -34,9 +34,9 @@ padding: 1px;
     text-align: center;
     border-radius: 20px;
 }
-.card:hover{
+/* .card:hover{
     transform: scale(1.2);
-}
+} */
 
 .designerNote{
 background-color: antiquewhite;
