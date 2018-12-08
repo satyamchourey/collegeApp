@@ -34,6 +34,9 @@ padding: 1px;
     text-align: center;
     border-radius: 20px;
 }
+.card:hover{
+    transform: scale(1.2);
+}
 
 .designerNote{
 background-color: antiquewhite;
@@ -59,7 +62,9 @@ background-color: antiquewhite;
     position: relative;
     transition: 0.5s;
   }
-  
+  .logo{
+      height: 45px;
+  }
   .button span:after {
     content: '\00bb';
     position: absolute;
@@ -70,7 +75,11 @@ background-color: antiquewhite;
 
   
 }
-  
+  .scooty{
+      height: 200px;
+      font-family: 'Indie Flower', cursive;
+     
+  }
   .button:hover span {
     padding-right: 25px;
 
