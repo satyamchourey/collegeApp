@@ -1,0 +1,30 @@
+html {
+    background-color:darkcyan;
+}
+
+body{
+    margin: auto;
+    width :  414px;
+    /* height : 736px; */
+    background-color: skyblue;
+}
+
+.noticeBoard{
+    background-image: url(board.jpg);
+    height: 276px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Indie Flower', cursive;
+    font-size: -webkit-xxx-large;
+
+}
+
+.radio , .map , .results , .links {
+display: inline-block;  
+padding: 1px;  
+}
+.card{
+    margin: 20px;
+    text-align: center;
+}
