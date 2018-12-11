@@ -4,11 +4,13 @@ html {
 
 body{
     margin: auto;
-    width :  414px;
+    width :  430px;
     /* height : 736px; */
     background-color: skyblue;
 }
-
+.data{
+    visibility: hidden;
+}
 .noticeBoard{
     background-image: url(board.jpg);
     height: 276px;
